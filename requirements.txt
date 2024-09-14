@@ -1,0 +1,7 @@
+astor
+babel
+pygments
+bandit
+radon
+jinja2
+pdfkit
